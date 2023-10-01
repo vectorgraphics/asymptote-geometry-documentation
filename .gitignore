@@ -8,7 +8,12 @@
 *.toc
 *.eps
 *.pdf
+!tex/geometry_en.pdf
+!tex/geometry_fr.pdf
 *.html
+*.synctex.gz
 tex/include/*.tex
 en/include/*.tex
 tex/vcolors/*.*
+
+pygmentizedformat/
